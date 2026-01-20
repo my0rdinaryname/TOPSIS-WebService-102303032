@@ -90,14 +90,14 @@ Users upload the file and enter required details.
 ### 🔹 Successful Submission
 Confirmation that the file has been processed and email sent.
 
-![Success Message](screenshots/email_sent.png)
+![Success Message](screenshots/email_sent.jpeg)
 
 ---
 
 ### 🔹 Result Received via Email
 The TOPSIS result file received in the user's inbox.
 
-![Email Result](screenshots/email.png)
+![Email Result](screenshots/email.jpeg)
 
 📌 *Note:* Place your screenshots inside a folder named `screenshots/` in the GitHub repository.
 

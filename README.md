@@ -83,35 +83,21 @@ The user must provide:
 ### 🔹 Home Page – Input Form
 Users upload the file and enter required details.
 
-![Home Page](screenshots/WhatsApp Image 2026-01-20 at 1.08.51 PM.jpeg)
-
----
-
-### 🔹 Filled Form Example
-Weights, impacts, and email ID provided by the user.
-
-![Form Filled](screenshots/form_filled.png)
+![Home Page](screenshots/details_filled.jpeg)
 
 ---
 
 ### 🔹 Successful Submission
 Confirmation that the file has been processed and email sent.
 
-![Success Message](screenshots/success_message.png)
+![Success Message](screenshots/email_sent.png)
 
 ---
 
 ### 🔹 Result Received via Email
 The TOPSIS result file received in the user's inbox.
 
-![Email Result](screenshots/email_result.png)
+![Email Result](screenshots/email.png)
 
 📌 *Note:* Place your screenshots inside a folder named `screenshots/` in the GitHub repository.
 
----
-
-## ▶ How to Run the Project Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/TOPSIS-WebService-102303032.git

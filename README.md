@@ -83,7 +83,7 @@ The user must provide:
 ### 🔹 Home Page – Input Form
 Users upload the file and enter required details.
 
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/WhatsApp Image 2026-01-20 at 1.08.51 PM.jpeg)
 
 ---
 
